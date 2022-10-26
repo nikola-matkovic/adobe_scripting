@@ -1,4 +1,4 @@
-// create new document/file
+﻿// create new document/file
 if (!app.homeScreenVisible) {
     app.activeDocument.close(SaveOptions.DONOTSAVECHANGES);
 }
